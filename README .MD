@@ -12,6 +12,7 @@
 <a href="#sobre"> Sobre - </a>
 <a href="#tecnologias">Tecnologias - </a>
 <a href="#autor">Autor</a>
+
 </div>
 
 <h4 align = "center">
