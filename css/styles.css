@@ -1,0 +1,63 @@
+.alignheader{
+    text-align: center;
+    text-transform: uppercase;
+    color: green;
+
+}
+.alignheader h1:hover{
+    color: red;
+}
+.decornav{
+    text-decoration: none;
+    color: white;
+    font: large;
+    background-color: green;
+    border-radius: 10px;
+    margin: 25px;
+    padding: 10px 10px;
+    transition: 1.0;
+}
+nav a:hover{
+    background-color: red;
+    color: white;
+    text-decoration: underline;
+    font-size: 120%;
+}
+
+.matriztable{
+    font-size: large;
+    text-transform: uppercase;
+    width: 70%;
+    border-style: double;
+    border-color: green;
+    border-width: 05px;
+    border-radius: 15px;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+    align-items: center;
+}
+.matriztable:hover{
+    border-color: red;
+    color: green;
+
+}
+.mapadress{
+    border: 10px;
+    align-items: center;
+    text-align: center;
+    border-radius: 45%;
+}
+.address{
+    margin-top: 5%;
+    text-align: center;
+    font-size: large;
+    text-transform: uppercase;
+    color: green;
+}
+.address :hover{
+    
+    color: red;
+}
+
+
